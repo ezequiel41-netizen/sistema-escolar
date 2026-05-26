@@ -4,6 +4,7 @@ Integrantes:
 - Ezequiel
 - 3C
 Descripcion:
+
 Repositorio inicial del proyecto Escolar
 
 funcionalidades futuras:
